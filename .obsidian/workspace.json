@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2bb2b41c19e7da6c",
+            "id": "8c0badc8b6ac8482",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "9bc797254661827c",
@@ -183,8 +183,13 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "2bb2b41c19e7da6c",
+  "active": "8c0badc8b6ac8482",
   "lastOpenFiles": [
+    "6_webhook.md",
+    "5_rag.md",
+    "4_ embeddings_y_ chunking.md",
+    "3_orquestar_LLMs.md",
+    "2_refactorizacion_codigo_asistida.md",
     "1_informacion.md"
   ]
 }
