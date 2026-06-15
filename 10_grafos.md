@@ -9,6 +9,8 @@ Cualquier sistema basado en grafos se compone de dos elementos fundamentales: [[
 
 - **Aristas (o Enlaces)**: Representan la conexión, acción o relación con significado semántico que une a dos nodos (por ejemplo: "es amigo de", "es un síntoma de", "está conectado por carretera con"). [[1](https://www.youtube.com/watch?v=QyAz3wr9i-M), [2](https://translate.google.com/translate?u=https://www.linkedin.com/pulse/graph-theory-artificial-intelligence-applications-impact-abirami-ckfgc&hl=es&sl=en&tl=es&client=sge)]
 
+- **Pesos**: Valores numéricos asignados a las aristas que indican la fuerza, costo o distancia de una relación.
+
 ---
 
 ¿Por qué son cruciales para la Inteligencia Artificial?
