@@ -1,5 +1,8 @@
+[[14_machine_learning]]
+
 ![[1_grafo.png]]
 
+![[2_ramas_ia.png]]
 
 En la Inteligencia Artificial, los **grafos** son ==estructuras matemáticas y computacionales que se utilizan para **representar y analizar información compleja basándose en las relaciones entre los datos**, en lugar de tratarlos como variables aisladas==. [[1](https://www.caixabanktech.com/es/blogs/grafos-y-redes-neuronales-como-la-ia-transforma-las-conexiones-en-valor/), [2](https://www.youtube.com/watch?v=1aqVM8R-Qv0&t=624)]
 
