@@ -1,3 +1,9 @@
+```toc
+title: Redes neuronales
+style: nestedOrderedList
+minLevel: 1
+maxLevel: 6
+```
 
 RAG son las siglas de **Retrieval-Augmented Generation** (Generación Aumentada por Recuperación). Es un **método o patrón de arquitectura de software** para desarrollo de IA.
 

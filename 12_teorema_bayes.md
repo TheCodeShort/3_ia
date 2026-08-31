@@ -1,4 +1,11 @@
 
+```toc
+title: Redes neuronales
+style: nestedOrderedList
+minLevel: 1
+maxLevel: 6
+```
+
 Lleva ese nombre en honor a **Thomas Bayes** (1701–1761), un matemático y ministro religioso presbiteriano inglés. Él fue la primera persona en la historia de la humanidad en escribir las reglas matemáticas de cómo los seres humanos cambiamos de opinión cuando vemos una nueva prueba física.
 
 Irónicamente, Thomas Bayes nunca publicó su descubrimiento en vida; su trabajo fue encontrado en sus notas después de morir y presentado ante la comunidad científica por su amigo Richard Price en 1763. Hoy, casi 300 años después, el apellido de ese ministro inglés es el que le permite a Gemini, a Grok y a los carros autónomos de Tesla tomar decisiones inteligentes en milisegundos.

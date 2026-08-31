@@ -1,3 +1,10 @@
+```toc
+title: Redes neuronales
+style: nestedOrderedList
+minLevel: 1
+maxLevel: 6
+```
+
 🐍 Semana 1: Consolidación de Python (Fundamento Vital)
 
 Todo lo que verás en agentes e ingeniería de IA corre bajo Python. Si no dominas las bases de código, te costará seguir los ejercicios.

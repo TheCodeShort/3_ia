@@ -1,3 +1,11 @@
+
+```toc
+title: Redes neuronales
+style: nestedOrderedList
+minLevel: 1
+maxLevel: 6
+```
+
 [LangChain](https://www.langchain.com/) es una biblioteca que facilita la creación de sistemas basados en agentes inteligentes, permitiendo que diferentes modelos de lenguaje (LLMs) sean utilizados de manera **integrada** con herramientas y datos externos.
 
 En el contexto de agentes inteligentes, LangChain posibilita el desarrollo de sistemas que interpretan instrucciones, toman decisiones y ejecutan acciones de forma autónoma. Estos agentes pueden interactuar con APIs, realizar cálculos, acceder a bases de datos y combinar diferentes fuentes de información para resolver problemas.

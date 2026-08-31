@@ -1,3 +1,9 @@
+```toc
+title: Redes neuronales
+style: nestedOrderedList
+minLevel: 1
+maxLevel: 6
+```
 # 🧩 1. ¿Qué es un Framework (Marco de Trabajo)?
 
 En programación, un _framework_ es una **caja de herramientas con plantillas y código ya prefabricado**.

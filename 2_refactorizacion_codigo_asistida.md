@@ -1,3 +1,9 @@
+```toc
+title: Redes neuronales
+style: nestedOrderedList
+minLevel: 1
+maxLevel: 6
+```
 # 🛠️ ¿Qué es la Refactorización de Código?
 
 Refactorizar significa **cambiar la estructura interna de un código sin alterar su comportamiento externo**. Es como remodelar las tuberías de una casa: el agua sigue saliendo igual, pero el sistema es más eficiente, limpio y fácil de mantener.

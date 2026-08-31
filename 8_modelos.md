@@ -1,3 +1,10 @@
+```toc
+title: Redes neuronales
+style: nestedOrderedList
+minLevel: 1
+maxLevel: 6
+```
+
 https://www.alura.com.br/artigos/tipos-de-llms
 
 - **Identifica los principales desafíos de este problema**

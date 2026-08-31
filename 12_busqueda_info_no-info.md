@@ -1,3 +1,11 @@
+
+```toc
+title: Redes neuronales
+style: nestedOrderedList
+minLevel: 1
+maxLevel: 6
+```
+
 Las estrategias de búsqueda son fundamentales para la resolución de problemas en Inteligencia Artificial. Más allá de la definición, exploraremos ejemplos prácticos y cómo algunos algoritmos se aplican a problemas reales.
 
 - **Búsqueda No Informada**

@@ -211,4 +211,58 @@ A continuación, dejaremos algunas referencias para que puedas investigar y expl
 Estas referencias te ayudarán a profundizar tu conocimiento en aprendizaje automático, tanto en teoría como en práctica.
 
 
+# Introducción a Machine Learning: Fundamentos y Aplicaciones Clave
+
+- **Definición de Machine Learning:** Comprenderás qué es el Machine Learning (aprendizaje automático) como un subconjunto de la inteligencia artificial, y cómo permite a los sistemas informáticos aprender y mejorar a partir de la experiencia, impulsados por algoritmos.
+- **Aplicaciones Prácticas:** Explorarás ejemplos concretos de dónde se aplica el Machine Learning en la vida cotidiana, como en las recomendaciones de productos en compras en línea, sugerencias de contenido en plataformas de streaming, filtros de spam y vehículos autónomos.
+- **Funcionamiento del Aprendizaje:** Profundizarás en cómo los sistemas de Machine Learning aprenden, enfocándote en el concepto de clasificación de información mediante etiquetas (labels) y cómo se utilizan las características de los datos para entrenar modelos.
+- **Entrenamiento y Predicción de Modelos:** Entenderás el proceso de entrenamiento de un modelo de Machine Learning, donde se utilizan datos etiquetados para que la inteligencia artificial aprenda, y cómo luego realiza inferencias para predecir resultados a partir de nuevos datos de entrada.
+- **Tipos de Aprendizaje Automático:** Conocerás los tres enfoques principales de entrenamiento en Machine Learning:
+    - **Aprendizaje Supervisado:** Aprenderás cómo se utiliza para clasificar datos y realizar predicciones, basándose en datos previamente etiquetados.
+    - **Aprendizaje No Supervisado:** Descubrirás cómo este enfoque permite comprender relaciones y patrones dentro de subconjuntos de datos sin etiquetas predefinidas.
+    - **Aprendizaje por Refuerzo:** Entenderás cómo funciona este tipo de aprendizaje, donde un sistema aprende a tomar decisiones o elegir acciones a través de la interacción con un entorno.
+- **Casos de Uso por Tipo de Aprendizaje:** Verás ejemplos específicos de cuándo se aplica cada tipo de aprendizaje, como la detección de enfermedades o spam con aprendizaje supervisado, la detección de transacciones fraudulentas con aprendizaje no supervisado, y el control de robots o coches autónomos con aprendizaje por refuerzo.
+# Aprendizaje Supervisado: Predicción de Precios con Regresión
+- **Introducción al Aprendizaje Supervisado:** Entenderás qué es el aprendizaje supervisado dentro del contexto del Machine Learning y sus aplicaciones prácticas, como la predicción de precios de viviendas, detección de enfermedades o análisis de sentimiento.
+- **Diferencia entre Regresión y Clasificación:** Aprenderás que el aprendizaje supervisado se divide en dos tipos principales: regresión (para predecir valores continuos) y clasificación (para predecir categorías). En esta clase, nos enfocaremos en la regresión.
+- **Preparación del Conjunto de Datos (Dataset):** Descubrirás cómo se organiza la información que se introduce en un sistema de Machine Learning, utilizando un "training dataset" con variables independientes (como el tamaño de una vivienda) y dependientes (como su precio).
+- **Visualización de Datos:** Verás cómo se representan gráficamente los datos de entrenamiento, utilizando un gráfico de dispersión con ejes X e Y para observar la relación entre las variables, por ejemplo, el tamaño y el precio de una vivienda.
+- **Concepto de Línea de Predicción:** Conocerás la "línea de predicción", una recta que se utiliza para estimar valores futuros basándose en los datos existentes.
+- **Ajuste de la Línea (Fit Line):** Entenderás cómo el algoritmo de Machine Learning trabaja para encontrar la mejor posición para esta línea de predicción, buscando que se ajuste lo más posible a los puntos de datos.
+- **Minimización de Errores (Función de Pérdida):** Aprenderás que la línea de predicción no siempre pasa exactamente por todos los puntos de datos. Se introduce el concepto de "errores" o "pérdidas" y cómo el sistema utiliza ecuaciones para minimizarlos, acercando la línea al centro de los datos.
+- **Conceptos Clave de Machine Learning:** Repasarás términos fundamentales que son la base de muchos modelos de Machine Learning, como entrenamiento, características (features), variables independientes y dependientes, función matemática, predicción, función de pérdida y optimización.
+# Clasificación en Machine Learning: Predicción de Categorías con Regresión Logística
+- **Introducción a la Clasificación:** Entenderás qué es la clasificación en el contexto del aprendizaje automático y cómo se diferencia de la regresión, que ya hemos estudiado. Veremos ejemplos prácticos como la detección de correo no deseado (SPAM).
+- **Tipos de Clasificación:** Conocerás los dos tipos principales de clasificación: binaria (con dos categorías posibles) y multiclase (con más de dos categorías).
+- **Regresión Logística para Clasificación Binaria:** Aprenderás sobre la regresión logística, una técnica fundamental utilizada para predecir resultados binarios, como si un estudiante aprobará o no un examen, basándose en variables de entrada.
+- **Análisis de la Curva Sigmoide:** Descubrirás cómo la regresión logística utiliza una curva en forma de "S" (curva sigmoide) para modelar la probabilidad de que un evento ocurra, en lugar de una línea recta.
+- **El Concepto de Umbral (Threshold):** Entenderás la importancia de definir un umbral, como 0.5, para tomar decisiones de clasificación basadas en las probabilidades predichas por la curva sigmoide.
+- **Aplicación Práctica de la Predicción:** Verás cómo se interpretan las probabilidades y el umbral para clasificar datos, por ejemplo, determinando si un estudiante aprobará o no según sus horas de estudio.
+- **Preparación para Demostraciones Futuras:** Te familiarizarás con el próximo paso, que incluirá demostraciones prácticas utilizando un conjunto de datos de flores Iris para clasificar diferentes especies.
+# Explorando el Aprendizaje No Supervisado: Agrupamiento y Detección de Patrones
+
+- **Introducción al Aprendizaje No Supervisado**: Entenderás qué es el aprendizaje no supervisado y cómo se diferencia de otros tipos de aprendizaje automático, especialmente porque no utiliza datos etiquetados.
+- **Agrupamiento (Clustering)**: Descubrirás cómo los algoritmos de aprendizaje no supervisado agrupan elementos de datos similares en "clusters". Verás un ejemplo práctico con frutas para visualizar cómo se forman estos grupos.
+- **Valores Atípicos (Outliers)**: Aprenderás a identificar qué son los valores atípicos, que son datos que no encajan en ningún grupo, y cómo se manejan.
+- **Casos de Uso del Aprendizaje No Supervisado**: Explorarás aplicaciones reales de esta técnica, como la segmentación de mercado para anuncios dirigidos, la detección de transacciones fraudulentas y los sistemas de recomendación de películas.
+- **Concepto de Similitud**: Comprenderás la importancia de la similitud en el agrupamiento, que es el grado de cercanía entre dos puntos de datos, y cómo se mide en una escala de 0 a 1.
+- **Flujo de Trabajo del Aprendizaje No Supervisado**: Conocerás los pasos clave para implementar un proyecto de aprendizaje no supervisado, que incluyen:
+    - **Preparación de Datos**: La importancia de limpiar, normalizar y escalar los datos antes de usarlos.
+    - **Selección de Métricas de Similitud**: Cómo elegir la métrica adecuada (como la distancia euclidiana, de Manhattan o la similitud de Jaccard) para medir la cercanía entre los datos.
+    - **Ejecución del Agrupamiento**: Cómo el algoritmo utiliza estas métricas para formar los clusters.
+    - **Evaluación de Resultados**: La fase final donde se interpreta la calidad de los grupos y se realizan ajustes.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+#
+#
+#
+#
 #

@@ -1,3 +1,10 @@
+```toc
+title: Redes neuronales
+style: nestedOrderedList
+minLevel: 1
+maxLevel: 6
+```
+
 [Directo al punto: qué es Machine Learning con ejemplos reales | Alura Cursos Online](https://www.aluracursos.com/blog/directo-al-punto-que-es-machine-learning-con-ejemplos-reales#algoritmos-comunes-de-ml)
 
 [[10_grafos]]

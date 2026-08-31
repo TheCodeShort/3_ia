@@ -1,4 +1,9 @@
-
+```toc
+title: Redes neuronales
+style: nestedOrderedList
+minLevel: 1
+maxLevel: 6
+```
 # **Algoritmo de Recomendación del Streaming de Películas**
 
 

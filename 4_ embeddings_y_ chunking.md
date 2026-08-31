@@ -1,3 +1,9 @@
+```toc
+title: Redes neuronales
+style: nestedOrderedList
+minLevel: 1
+maxLevel: 6
+```
 # 🧩 ¿Qué son los Embeddings?
 
 Un _embedding_ es la **traducción de una palabra, frase, imagen o video a una lista de números** (un vector) 

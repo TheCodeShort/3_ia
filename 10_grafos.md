@@ -1,3 +1,10 @@
+```toc
+title: Redes neuronales
+style: nestedOrderedList
+minLevel: 1
+maxLevel: 6
+```
+
 [[14_machine_learning]]
 
 ![[1_grafo.png]]

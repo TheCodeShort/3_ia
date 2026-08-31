@@ -1,3 +1,9 @@
+```toc
+title: Redes neuronales
+style: nestedOrderedList
+minLevel: 1
+maxLevel: 6
+```
 
 1. Modelos Ocultos de Markov (HMM) [[1](https://bibdigital.epn.edu.ec/handle/15000/23291)]
 
